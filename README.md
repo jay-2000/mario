@@ -1,1 +1,5 @@
 # mario
+
+- tech stack
+
+- deployment
